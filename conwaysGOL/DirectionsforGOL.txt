@@ -1,0 +1,19 @@
+Directions to use Game of Life
+
+This program simulates iterations of the Game of Life, first introduced by John Horton Conway in 1970. The "game" is a 
+zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
+One interacts with the Game of Life by creating an initial configuration and observing how it evolves, or,
+for advanced "players", by creating patterns with particular properties.
+
+STEPS
+
+1.) In this rendition, when prompted the user will enter "1" to enter the path for a txt file he created that houses the
+points and end point (-1,-1) that he would like to begin with or enter "2" for a set of random points or enter "3" to exit and not play! 
+
+2.) The user will then be prompted to enter a number of iterations, in where they will be able to input as many iterations as they'd like.
+
+3.) After that, the user may sit back and watch the magic happen as the board/panel will go through a series of rules and configure the cell population based on that.
+
+4.) After all is said and done the user will input the filename he'd like to create that will display all end points through each iteration.
+
+5.) The user will then be prompted to continue and start a new game or exit. Value "1" is for Yes/Continue and Value "2" is for Exit. Enjoy!
